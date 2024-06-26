@@ -8,3 +8,6 @@ They have contracted an automobile consulting company to understand the factors 
 * Which variables are significant in predicting the price of a car?
 * How well do those variables describe the price of a car?
 Based on various market surveys, the consulting firm has gathered a large data set of different types of cars across the American market.  
+
+# Navigation towards a solution
+Leveraged Pandas Dataframe functions to drive out meaningful insights about the structure and Exploratory Data Analysis. Matplotlib and Seaborn libraries were exceptionally helpful in deriving the visualizations across the entire project. Finally, used the Statsmodel library to build a Linear Regression model and simultaneously improved it by the method of Recursive Feature Elimination. The model was evaluated with the help of Scikit Learn's metrics functionalities.
